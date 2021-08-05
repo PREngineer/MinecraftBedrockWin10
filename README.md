@@ -3,7 +3,7 @@ Script to install and update Minecraft Bedrock Edition in Windows 10
 
 # Notes:
 
-**Pre-Requisites
+**Pre-Requisites**
 
 1. Make sure to have configured Internet Explorer if it is a new installation of Windows 10.
   Open it and when prompted, select "Don't use recommended settings."  Then click OK.
@@ -11,7 +11,7 @@ Script to install and update Minecraft Bedrock Edition in Windows 10
   Open PowerShell as Admin.  Run the following command:  Set-ExecutionPolicy Bypass, then type A and Enter.
 3. Make sure to install the latest Visual C++ Redistributable from Microsoft, as it is a requirement for Minecraft BE.
 
-**How to Run
+**How to Run**
 
 1. Open PowerShell as Administrator
 2. Call the PowerShell script and pass it your account credentials like this:
