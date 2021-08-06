@@ -21,3 +21,8 @@ Script to install and update Minecraft Bedrock Edition in Windows 10
 There you go!  Enjoy your Minecraft Bedrock Edition server.
   
 It will patch/update itself every day at 4am.
+
+Server update execution example:
+  
+![image](https://user-images.githubusercontent.com/6334069/128554267-a9047b88-905b-4442-a7ce-5a4e4414a280.png)
+
